@@ -1,0 +1,35 @@
+body{
+	background-color: whitesmoke;
+	margin: 0;
+}
+
+div.container{
+	height:100%;
+	width: 890px;
+	background-color: black;
+
+}
+
+div.col-md-12{
+	background-color: whitesmoke;
+	color:green;
+
+}
+
+div.col-md-3{
+	background-color: purple;
+	color:yellow;
+	margin-right: 50px;
+}
+
+div.col-md-6{
+	background-color: pink;
+
+
+}
+
+div.col-md-4{
+	background-color: blue;
+	color: yellow;
+
+}
